@@ -8,7 +8,7 @@ You can create your personal developer website with the Ekecik theme prepared on
 <br>
 
 <h3>Theme Demo:</h3><br>
-https://abdurrahmanekecik.com/ekecikthemes
+https://abdurrahmanekecik.com/projects/ekecikthemes
 
 <br>
 <h3>Theme Support:</h3> info@abdurrahmanekecik.com
